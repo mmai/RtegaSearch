@@ -1,6 +1,10 @@
 # RtegaSearch
 Android app to search copied hanzi character on http://rtega.be/chmn/
 
+## Installation
+
+Install the apk from the release page : https://github.com/mmai/RtegaSearch/releases/download/v0.1.0/app-release.apk
+
 ## Usage
 
 1. Select a character on any app
